@@ -12,4 +12,4 @@ def search_str(file_path, word):
                 fp.write('Retro0989')
                 fp.close()
 
-search_str(r'/root/king.txt, 'USERNAME')
+search_str(r'/root/king.txt', 'USERNAME')
