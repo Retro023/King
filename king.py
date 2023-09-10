@@ -9,7 +9,7 @@ def search_str(file_path, word):
 
         else:
                 fp = open('test.txt', 'w')
-                fp.write('Retro0989')
+                fp.write('USERNAME')
                 fp.close()
 
 search_str(r'/root/king.txt', 'USERNAME')
