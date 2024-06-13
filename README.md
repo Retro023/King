@@ -9,3 +9,6 @@ in the king.txt file. also make sure to configure the cronjob properly as to not
 
 I will also be updating this script trying to make it more useable 
 
+Disclaimer:
+
+The content shared on this platform, including proof of concepts (PoCs) and other cybersecurity-related information, is intended for educational purposes only. The author does not assume any responsibility for the misuse of this information.
